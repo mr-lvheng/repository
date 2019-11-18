@@ -1,3 +1,2 @@
 # repository
-初版readme
-新branch的readme
+ 这是一个关于try和catch的基础操作的c++代码。
